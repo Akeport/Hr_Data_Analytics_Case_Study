@@ -1,15 +1,15 @@
-# Hr_Data_Analytics_Case_Study
 
-# 🧠 Employee Attrition Prediction
+
+#  Employee Attrition Prediction
 
 Projekt analizy danych HR mający na celu przewidzenie rotacji pracowników w firmie.  
 Celem projektu jest zrozumienie czynników wpływających na odejścia pracowników oraz zbudowanie modelu predykcyjnego, który pomoże w identyfikacji osób potencjalnie zagrożonych odejściem.
 
 ---
 
-## 📊 Opis projektu
+##  Opis projektu
 
-Rotacja pracowników (ang. *attrition*) to istotny problem dla wielu organizacji – wpływa na koszty rekrutacji, szkolenia i utratę wiedzy organizacyjnej.  
+Rotacja pracowników to istotny problem dla wielu organizacji – wpływa na koszty rekrutacji, szkolenia i utratę wiedzy organizacyjnej.  
 W ramach projektu przeanalizowano dane HR, aby:
 - Zidentyfikować czynniki sprzyjające odejściom pracowników,  
 - Stworzyć model predykcyjny przewidujący prawdopodobieństwo odejścia,  
@@ -17,11 +17,10 @@ W ramach projektu przeanalizowano dane HR, aby:
 
 ---
 
-## 🧰 Technologie i narzędzia
+##  Technologie i narzędzia
 
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)  
-- **Jupyter Notebook**  
-- **Git & GitHub**  
+- **Jupyter Notebook**   
 - **Matplotlib / Seaborn** – wizualizacja danych  
 - **Scikit-learn** – modelowanie i ewaluacja modeli  
 
@@ -45,14 +44,11 @@ W ramach projektu przeanalizowano dane HR, aby:
 
 4. **Wnioski i rekomendacje**  
    - Identyfikacja kluczowych czynników wpływających na odejście pracownika  
-   - Rekomendacje działań prewencyjnych dla HR  
 
 ---
 
-## 📈 Wyniki
+##  Wyniki
 
 - Największy wpływ na ryzyko odejścia miały: poziom satysfakcji, czas pracy, ocena wydajności i wynagrodzenie.  
-- Model Random Forest osiągnął najlepszy wynik (np. **accuracy = 0.87**).  
-- Wizualizacje pokazują kluczowe trendy i segmenty pracowników narażonych na rotację.
 
 ---
