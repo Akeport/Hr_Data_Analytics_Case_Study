@@ -26,7 +26,7 @@ W ramach projektu przeanalizowano dane HR, aby:
 
 ---
 
-## 🧩 Etapy analizy
+##  Etapy analizy
 
 1. **Eksploracja danych (EDA)**  
    - Analiza zmiennych demograficznych i zawodowych  
